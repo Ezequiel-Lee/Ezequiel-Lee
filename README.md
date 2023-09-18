@@ -2,7 +2,7 @@
 
  <div>
    <a href="https://github.com/Ezequiel-Lee">
-   <img height="174em" src="https://github-readme-stats.vercel.app/api?username=Ezequiel-Lee&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<!--    <img height="174em" src="https://github-readme-stats.vercel.app/api?username=Ezequiel-Lee&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> -->
    <img height="174em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ezequiel-Lee&layout=compact&langs_count=6&theme=dracula"/>
 
 </div>
@@ -17,7 +17,7 @@
  <br>
 
   ### Projects
-   <a href="" target="_blank"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" target="_blank"></a>
+   <a href="https://github.com/Ezequiel-Lee?tab=repositories" target="_blank"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" target="_blank"></a>
 
   ### Social Media!
  
