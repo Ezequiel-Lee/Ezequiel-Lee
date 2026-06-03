@@ -77,27 +77,3 @@ I develop simple, intuitive and responsive user interface that helps users get t
 <a href="https://github.com/Ezequiel-Lee?tab=repositories" target="_blank" rel="noopener noreferrer">
     <img src="./private/portifolio.svg" />
 </a>
-
-<br>
-
-## Do You Need a Creative Product for your businesses?
-### I can Help You!
-#### Social Media! Contact me!
-
-<div> 
-    <a href="https://www.instagram.com/lee_ezequiel33/" target="_blank" rel="noopener noreferrer">
-        <img height="40" width="40" alt="instagram" src="./private/media/instagram.svg"/>
-    </a>
-    <!-- <a href = "" target="_blank" rel="noopener noreferrer">
-        <img height="40" width="40" alt="linkedin" src="./private/media/linkedin.svg"/>
-    </a> -->
-    <a href="mailto:ezequiel.github33@gmail.com" target="_blank" rel="noopener noreferrer">
-        <img height="40" width="40" alt="gmail" src="./private/media/gmail.svg"/>
-    </a>
-    <!-- <a href="" target="_blank" rel="noopener noreferrer">
-        <img height="40" width="40" alt="telegram" src="./private/media/telegram.svg"/>
-    </a> -->
-    <!-- <a href="" target="_blank" rel="noopener noreferrer">
-        <img height="40" width="40" alt="whatsapp" src="./private/media/whatsapp.svg"/>
-    </a> -->
-</div>
